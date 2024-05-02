@@ -46,20 +46,20 @@
 
         function sumNumber(){
             result=operatorNumber[0]+operatorNumber[1];
-            alert(`A soma dos valores é: ${result}`);
+            alert(`O resultado da operação é: ${result}`);
         }
 
         function subNumber(){
             result=operatorNumber[0]-operatorNumber[1];
-            alert(`A soma dos valores é: ${result}`);
+            alert(`O resultado da operação é: ${result}`);
         }
 
         function multNumber(){
             result=operatorNumber[0]*operatorNumber[1];
-            alert(`A soma dos valores é: ${result}`);
+            alert(`O resultado da operação é: ${result}`);
         }
 
         function divNumber(){
             result=operatorNumber[0]/operatorNumber[1];
-            alert(`A soma dos valores é: ${result}`);
+            alert(`O resultado da operação é: ${result}`);
         }
